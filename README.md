@@ -4,7 +4,7 @@
 # Welcome!
 ## I'm Adriano! Let me present a little about myself
 
-Full-Stack focused in Javascript | Software engineer :robot:
+Full-Stack focused in Javascript :robot:
 
 Lover of Technology and coding :heart:
 
